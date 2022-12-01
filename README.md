@@ -12,5 +12,5 @@ In order to run this application, the following steps must be done on a Windows 
   - Download Oracle Instant Client v21.7 from https://www.oracle.com/ca-en/database/technologies/instant-client.html
   - Run main.py
 
-To view the full report and documentation:
+To view the full report and documentation: https://github.com/jsyma/OnlineMovieStore-DBMS/blob/main/CPS510_FinalReport.pdf
   
